@@ -13,7 +13,8 @@ plugins {
 
 spotless {
     java {
-        target("app/src/**/*.java")
+        target("/src/main/java/**/*.java")
+        googleJavaFormat("1.25.2")
     }
 }
 
