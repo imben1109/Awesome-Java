@@ -1,0 +1,5 @@
+# PMD
+
+```
+./gradlew check
+```
