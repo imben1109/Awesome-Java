@@ -10,3 +10,14 @@ A process that automatically check source code for
 * [SonarLint](https://plugins.gradle.org/plugin/name.remal.sonarlint)
 * [Spotless](https://github.com/diffplug/spotless)
 * ErrorProne
+
+
+# Appendix 
+
+## Create a new project via Gradle
+
+```
+mkdir <Project Folder>
+cd <Project Folder>
+Gradle Init
+```
